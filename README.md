@@ -5,3 +5,7 @@ Project which uses React.js, Recoil(frontend), Node.js/Express(Backend), MongoDB
 -Potential things which can be done next:
   - User chat functionality
   - search posts by tags 
+
+Links for viewing:
+https://drive.google.com/file/d/1JXdXmRGL60PbeGoJUVMDI7RO9OYodOId/view?usp=sharing
+https://drive.google.com/file/d/1qNPgmhV8ssAMmieDXofcFO80gJNmuXuS/view?usp=sharing
